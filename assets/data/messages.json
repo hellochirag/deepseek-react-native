@@ -1,0 +1,31 @@
+[
+  {
+    "id": "6139e7c6580e9b39d1c6bd79",
+    "from": 1,
+    "replyTo": {
+      "_id": 2,
+      "image": "https://i.pravatar.cc/150?u=herringduke@marketoid.com",
+      "text": "I need help with my account.",
+      "user": {
+        "_id": 1,
+        "name": "DeepSeek"
+      }
+    },
+    "date": "Wed Aug 25 2021 04:34:39 GMT+0200 (Central European Summer Time)",
+    "msg": "Et nulla tempor nulla minim in veniam excepteur nisi deserunt cupidatat commodo reprehenderit duis pariatur. Eu ullamco velit minim cupidatat sit nisi laborum."
+  },
+  
+  {
+    "id": "6139e7c658a955b40b50f382",
+    "from": 1,
+    "date": "Tue Aug 31 2021 20:57:48 GMT+0200 (Central European Summer Time)",
+    "msg": "Cupidatat occaecat consequat incididunt irure mollit enim duis incididunt ut id. Esse officia adipisicing cillum amet occaecat labore."
+  },
+  {
+    "id": "6139e7c63d23c8d990ffb3de",
+    "from": 2,
+    "date": "Thu Aug 05 2021 07:37:11 GMT+0200 (Central European Summer Time)",
+    "msg": "Exercitation consequat amet ut nisi. Do ex enim ullamco ex ex est et aliqua laborum ullamco magna."
+  }
+
+]
