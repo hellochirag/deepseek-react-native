@@ -3,6 +3,15 @@
 
 Welcome to the **DEEP Seek Chat Integration** project! 🚀 This project helps you build an **auto chatbot** using the **DeepSeek API** with **React Native Expo**.
 
+## Screenshots
+
+<div style="display: flex; flex-direction: 'row';">
+<img src="./screenshot/1.png" width="30%">
+<img src="./screenshot/2.png" width="30%">
+<img src="./screenshot/3.png" width="30%">
+
+</div>
+
 ## 🚀 Get Started
 
 ### 1️⃣ Install Dependencies
